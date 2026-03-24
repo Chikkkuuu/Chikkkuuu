@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ritul Raj Bhakat</h1>
-<h3 align="center">Firmware Developer | IoT & Embedded Systems Designer and Developer</h3>
+<h1 align="left">Hi 👋, I'm Ritul Raj Bhakat</h1>
+<h3 align="left">Firmware Developer | IoT & Embedded Systems Designer and Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chikkkuuu&label=Profile%20views&color=0e75b6&style=flat" alt="chikkkuuu" /> </p>
 
