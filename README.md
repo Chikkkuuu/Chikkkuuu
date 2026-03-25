@@ -8,7 +8,7 @@
 - Ask me about **C/C++, Python, Raspberry Pi, ESP32, and low-latency communication protocols (I2C, SPI, MQTT).**
 - How to reach me [Mail id](mailto:ritulraj384@gmail.com)
 - Fun fact **I hold a Black Belt in Karate and led my school's Scout Troop to a national-level victory!**
-<br/>
+
 <h3 align="left">Connect:</h3>
   <a href="https://linkedin.com/in/ritul-raj-bhakat" target="blank" style="text-decoration: none;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="30" width="40" style="display: inline-block;"/>
