@@ -2,11 +2,17 @@
 <h3 align="left">Firmware Developer | IoT & Embedded Systems Designer and Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chikkkuuu&label=Profile%20views&color=0e75b6&style=flat" alt="chikkkuuu" /> </p>
 - 🔭 I’m currently working on **a Car Black Box telemetry system and production-ready healthcare IoT wearables.**
+
 - 👯 I’m looking to collaborate on **open-source embedded projects, hardware-software integrations, or custom IoT suites.**
+  
 - 🤝 I’m looking for help with **RTOS, Edge AI / TinyML, and hardware-in-the-loop simulation.**
+  
 - 👨‍💻 All of my projects are available at [Portfolio](https://ritulrajbhakatportfolio.vercel.app/)
+  
 - 💬 Ask me about **C/C++, Python, Raspberry Pi, ESP32, and low-latency communication protocols (I2C, SPI, MQTT).**
+  
 - 📫 How to reach me [Mail id](mailto:ritulraj384@gmail.com)
+  
 - ⚡ Fun fact **I hold a Black Belt in Karate and led my school's Scout Troop to a national-level victory!**
 
 <h3 align="left">Connect with me:</h3>
