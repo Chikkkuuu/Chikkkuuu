@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **RTOS, Edge AI / TinyML, and hardware-in-the-loop simulation.**
 
-- 👨‍💻 All of my projects are available at [https://ritulrajbhakatportfolio.vercel.app/](https://ritulrajbhakatportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ritulrajbhakatportfolio.vercel.app/)
 
 - 💬 Ask me about **C/C++, Python, Raspberry Pi, ESP32, and low-latency communication protocols (I2C, SPI, MQTT).**
 
