@@ -8,7 +8,6 @@
 - Ask me about **C/C++, Python, Raspberry Pi, ESP32, and low-latency communication protocols (I2C, SPI, MQTT).**
 - How to reach me [Mail id](mailto:ritulraj384@gmail.com)
 - Fun fact **I hold a Black Belt in Karate and led my school's Scout Troop to a national-level victory!**
-
 <br/>
 <h3 align="left">Connect:</h3>
   <a href="https://linkedin.com/in/ritul-raj-bhakat" target="blank" style="text-decoration: none;">
@@ -29,5 +28,4 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </div>
 <br/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chikkkuuu&label=Profile%20views&color=0e75b6&style=flat" alt="chikkkuuu" /> </p>
