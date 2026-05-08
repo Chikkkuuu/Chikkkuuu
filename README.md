@@ -1,31 +1,54 @@
-<h1 align="left">Hi , I'm Ritul Raj Bhakat</h1>
-<h3 align="left">Firmware Developer | IoT & Embedded Systems Designer and Developer</h3>
+# Ritul Raj Bhakat
+### Embedded Systems Architect | Firmware Developer
+**1 Year Professional Experience in IoT & Automotive Telemetry**
 
-- I’m currently working on **a Car Black Box telemetry system and production-ready healthcare IoT wearables.**
-- I’m looking to collaborate on **open-source embedded projects, hardware-software integrations, or custom IoT suites.**
-- I’m looking for help with **RTOS, Edge AI / TinyML, and hardware-in-the-loop simulation.**
-- All of my projects are available at [Portfolio](https://ritulrajbhakatportfolio.vercel.app/)
-- Ask me about **C/C++, Python, Raspberry Pi, ESP32, and low-latency communication protocols (I2C, SPI, MQTT).**
-- How to reach me [Mail id](mailto:ritulraj384@gmail.com)
-- Fun fact **I hold a Black Belt in Karate and led my school's Scout Troop to a national-level victory!**
+---
 
-<h3 align="left">Connect:</h3>
-  <a href="https://linkedin.com/in/ritul-raj-bhakat" target="blank" style="text-decoration: none;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="30" width="40" style="display: inline-block;"/>
-  </a>
-  <h3 align="left">Languages and Tools:</h3>
-<div align="left" style="line-height: 1.5;">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</div>
+> **System-level engineer focused on the intersection of low-latency firmware and high-reliability hardware. Currently architecting production-ready wearables and automotive data-logging systems.**
+
+---
+
+## 🛠️ Engineering Focus & Practical Approach
+I specialize in hardware-software integration where resource constraints meet real-time performance requirements.
+
+*   **Automotive Telemetry (Black Box):** Engineered a single-camera dashcam system with synchronized GPS/IMU data logging. Focused on mitigating SD card latency and ensuring data integrity in high-vibration environments.
+*   **Healthcare Wearables:** Technical Lead for **LiDAR-based** spatial awareness systems. Developed custom noise-filtering algorithms to provide real-time haptic feedback for assistive technology.
+*   **Smart E-Bike Systems:** Developed telemetry suites for national-level competition, focusing on battery management communication and low-power sensor polling.
+
+## 🧪 Technical Ecosystem
+
+| Domain | Technologies & Protocols |
+| :--- | :--- |
+| **Firmware / Low-Level** | C, C++, Embedded Python, RTOS, Bare-Metal |
+| **Communication** | I2C, SPI, UART, MQTT, HTTP, CAN Bus |
+| **Compute / MCUs** | ESP32 (S3/C3), STM32, Raspberry Pi, AVR |
+| **IoT & Cloud** | Firebase, Node.js, Telemetry Stream Processing |
+| **Tools & Debugging** | Git, Logic Analyzers, GDB, Linux, Postman |
+
+## 📈 Proof of Work
+*   **[Portfolio](https://ritulrajbhakatportfolio.vercel.app/):** Deep dives into my hardware architecture and firmware logic.
+*   **[Collaborations]:** Open to high-impact projects involving **Edge AI / TinyML**, **Hardware-in-the-loop (HIL)** simulation, and **RTOS** optimization.
+
+## 🥋 Discipline & Leadership
+*   **Black Belt (Karate):** A foundation of high-pressure focus, technical precision, and mental discipline.
+*   **Technical Leadership:** Convenor for **Techno-aiMBiAtion 2026**; experienced in managing cross-functional engineering teams to deliver performance-ready prototypes.
+
+## 📬 Let's Connect
+[LinkedIn](https://linkedin.com/in/ritul-raj-bhakat) • [Email](mailto:ritulraj384@gmail.com)
+
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chikkkuuu&label=Profile%20views&color=0e75b6&style=flat" alt="chikkkuuu" /> </p>
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35"/> 
+</div>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=chikkkuuu&label=PROFILE%20VIEWS&color=000000&style=for-the-badge)
